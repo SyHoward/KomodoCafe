@@ -1,0 +1,14 @@
+C:\Users\Syman\OneDrive\Desktop\Projects\ConsoleApplications\CafeChallenge\obj\Debug\net7.0\CafeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Syman\OneDrive\Desktop\Projects\ConsoleApplications\CafeChallenge\obj\Debug\net7.0\CafeChallenge.AssemblyInfoInputs.cache
+C:\Users\Syman\OneDrive\Desktop\Projects\ConsoleApplications\CafeChallenge\obj\Debug\net7.0\CafeChallenge.AssemblyInfo.cs
+C:\Users\Syman\OneDrive\Desktop\Projects\ConsoleApplications\CafeChallenge\obj\Debug\net7.0\CafeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Syman\OneDrive\Desktop\Projects\ConsoleApplications\CafeChallenge\bin\Debug\net7.0\CafeChallenge.exe
+C:\Users\Syman\OneDrive\Desktop\Projects\ConsoleApplications\CafeChallenge\bin\Debug\net7.0\CafeChallenge.deps.json
+C:\Users\Syman\OneDrive\Desktop\Projects\ConsoleApplications\CafeChallenge\bin\Debug\net7.0\CafeChallenge.runtimeconfig.json
+C:\Users\Syman\OneDrive\Desktop\Projects\ConsoleApplications\CafeChallenge\bin\Debug\net7.0\CafeChallenge.dll
+C:\Users\Syman\OneDrive\Desktop\Projects\ConsoleApplications\CafeChallenge\bin\Debug\net7.0\CafeChallenge.pdb
+C:\Users\Syman\OneDrive\Desktop\Projects\ConsoleApplications\CafeChallenge\obj\Debug\net7.0\CafeChallenge.dll
+C:\Users\Syman\OneDrive\Desktop\Projects\ConsoleApplications\CafeChallenge\obj\Debug\net7.0\refint\CafeChallenge.dll
+C:\Users\Syman\OneDrive\Desktop\Projects\ConsoleApplications\CafeChallenge\obj\Debug\net7.0\CafeChallenge.pdb
+C:\Users\Syman\OneDrive\Desktop\Projects\ConsoleApplications\CafeChallenge\obj\Debug\net7.0\CafeChallenge.genruntimeconfig.cache
+C:\Users\Syman\OneDrive\Desktop\Projects\ConsoleApplications\CafeChallenge\obj\Debug\net7.0\ref\CafeChallenge.dll
